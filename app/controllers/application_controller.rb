@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
-	def say
-		render text: 'hello'
+	def index
+		
 	end
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
